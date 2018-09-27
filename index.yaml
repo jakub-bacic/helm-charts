@@ -2,6 +2,21 @@ apiVersion: v1
 entries:
   database-k8s-operator:
   - apiVersion: v1
+    appVersion: 0.4.0
+    created: 2018-09-27T22:24:44.17867673+02:00
+    description: A Helm chart for database-k8s-operator
+    digest: 4788ee259f8283f9b431ba10bfda86445edff74bc3e6d9e11ce2ed7bf00006ca
+    home: https://github.com/jakub-bacic/database-k8s-operator
+    maintainers:
+    - email: jakub.bacic@gmail.com
+      name: Jakub Bacic
+    name: database-k8s-operator
+    sources:
+    - https://github.com/jakub-bacic/database-k8s-operator
+    urls:
+    - database-k8s-operator-0.4.0.tgz
+    version: 0.4.0
+  - apiVersion: v1
     appVersion: 0.3.0
     created: 2018-09-27T17:42:46.094241322+02:00
     description: A Helm chart for database-k8s-operator
